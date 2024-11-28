@@ -107,7 +107,7 @@
   - cp: Sao chép file/thư mục.
   - rm: Xóa file/thư mục.
   - touch: Tạo file trống.
-   **4.2** Hệ thống tệp và quyền:
+ **4.2** Hệ thống tệp và quyền:
   - Các loại tệp trong linux:
      + Tệp thông thường (Regular File): Dùng để lưu trữ dữ liệu, văn bản, chương trình.
      + Thư mục (Directory): Chứa các tệp và thư mục con.
@@ -122,7 +122,7 @@
   - Cách thay đổi quyền:
      chmod u+x file.txt  # Thêm quyền thực thi cho chủ sở hữu.
      chmod g-w file.txt  # Bỏ quyền ghi của nhóm.
-## chương 5: Git và ứng dụng
+## hương 5: Git và ứng dụng
  **5.1** Các khái niệm chính trong Git
   - Repository (Repo): Kho lưu trữ, nơi chứa toàn bộ mã nguồn và lịch sử thay đổi.
   - Commit: Một điểm chụp lại trạng thái hiện tại của dự án, bao gồm mã nguồn và các thay 
