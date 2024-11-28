@@ -122,7 +122,7 @@
   - Cách thay đổi quyền:
      chmod u+x file.txt  # Thêm quyền thực thi cho chủ sở hữu.
      chmod g-w file.txt  # Bỏ quyền ghi của nhóm.
-## hương 5: Git và ứng dụng
+## Chương 5: Git và ứng dụng
  **5.1** Các khái niệm chính trong Git
   - Repository (Repo): Kho lưu trữ, nơi chứa toàn bộ mã nguồn và lịch sử thay đổi.
   - Commit: Một điểm chụp lại trạng thái hiện tại của dự án, bao gồm mã nguồn và các thay 
